@@ -956,11 +956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IntroductionToCSharp\\IntroductionToCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\BIteh\\source\\repos\\CSharpProgramming\\IntroductionToCSharp.csproj",
       "projectName": "IntroductionToCSharp",
-      "projectPath": "C:\\IntroductionToCSharp\\IntroductionToCSharp.csproj",
+      "projectPath": "C:\\Users\\BIteh\\source\\repos\\CSharpProgramming\\IntroductionToCSharp.csproj",
       "packagesPath": "C:\\Users\\BIteh\\.nuget\\packages\\",
-      "outputPath": "C:\\IntroductionToCSharp\\obj\\",
+      "outputPath": "C:\\Users\\BIteh\\source\\repos\\CSharpProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BIteh\\AppData\\Roaming\\NuGet\\NuGet.Config",
